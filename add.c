@@ -16,7 +16,7 @@ void main(){
         {
           case 1:
               ans=a+b;
-               printf("Addition is %d",ans);
+               printf("Addition of 2 no is %d",ans);
           break;
           case 2:
               ans=a-b;
